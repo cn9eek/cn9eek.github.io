@@ -1,3 +1,4 @@
 * [首页](/)
-* [指南](guide)
-* [思维导图](mindmap/map)
+* [思维导图](mindmap/)
+* [文章搜集](secruity/)
+* [编程学习](program/)
