@@ -38,6 +38,9 @@
   repo: 'https://github.com/cn9eek/cn9eek.github.io/',
   //loadNavbar: 'nav.md',
     }
+    if (typeof navigator.serviceWorker !== 'undefined') {
+    navigator.serviceWorker.register('sw.js')
+  }
   </script>
 
 
