@@ -1,3 +1,4 @@
+<script src="map.js"></script>
 <div id="main-area">
       <div id="content-info">
         <div id="content-info">
