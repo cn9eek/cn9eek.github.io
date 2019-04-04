@@ -28,12 +28,10 @@
     coverpage: true,
     loadNavbar: true,
     autoHeader: true,//增加每个页面的标题
-    noEmoji: true,//禁用解析
-    //mergeNavbar: true,//小屏设备下合并导航栏到侧边栏
-    externalLinkTarget: '_self', // default: '_blank'
-    notFoundPage: 'my404.txt',
+    mergeNavbar: true,//小屏设备下合并导航栏到侧边栏
+    externalLinkTarget:'_blank', // default: '_blank'
 	loadSidebar: true,
-  subMaxLevel: 4,
+    subMaxLevel: 4,
   //coverpage: true,
   maxLevel: 4,
   repo: 'https://github.com/cn9eek/cn9eek.github.io/',
@@ -43,9 +41,6 @@
     navigator.serviceWorker.register('sw.js')
   }
   </script>
-
-
-
   <script src="docsify.min.js"></script>
 </body>
 </html>
