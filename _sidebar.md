@@ -7,6 +7,8 @@
   * [铁人三项训练营](mindmap/tieren.md)
   * [渗透测试实战指南](mindmap/webaqgf.md)
   * [渗透测试中快速找到突破点](mindmap/tupodian.md)
+  * [渗透测试](mindmap/stcs.md)
+  * [PHP黑白盒审计](mindmap/phphbhsj.md)
   * [情报搜集](mindmap/qbsj.md)
   * [网络安全绪论](mindmap/xulun.md)
   * [扫描与防御技术](mindmap/smyfy.md)
@@ -19,3 +21,5 @@
   * [木马攻击与防御技术](mindmap/mmgjfy.md)
   * [计算机病毒](mindmap/jsjbd.md)
   * [网络安全发展与未来](mindmap/wlaqfzwl.md)
+  * [安全知识图谱](mindmap/aqzstp.md)
+
